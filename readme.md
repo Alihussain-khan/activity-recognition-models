@@ -1,6 +1,6 @@
 Hi, here I will try to take you through what lies where. :)
 
-One thing, this repository is not exact copy of the repo on the remote server. It is missing the models, logs, checkpoints and dataset. 
+One thing, this repository is not exact copy of the repo on the remote server. It is missing the models, logs, checkpoints and dataset because of memory and data constraints.
 Some of the failed experiements stayed on the remoter server :)
 
 Some of the scripts only need to be ran once, and some you need to get the environment running.
