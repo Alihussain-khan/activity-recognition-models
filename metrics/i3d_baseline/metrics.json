@@ -1,0 +1,10 @@
+{
+  "checkpoint": "/home/stud/u286092/bhome/group8/checkpoints/i3d_baseline/ckpt_10_valacc_0.342.weights.h5",
+  "test_top1": 0.3417922258377075,
+  "test_top5": 0.6624372005462646,
+  "num_classes": 101,
+  "num_examples": 3783,
+  "frames_T": 32,
+  "batch": 4,
+  "width_mult": 1.0
+}

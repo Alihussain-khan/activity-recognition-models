@@ -1,0 +1,9 @@
+{
+  "checkpoint": "/home/stud/u286092/bhome/group8/checkpoints/cnn_lstm_inception_v1/ckpt_08_valacc_0.645.weights.h5",
+  "test_top1": 0.6452550888061523,
+  "test_top5": 0.8863335847854614,
+  "num_classes": 101,
+  "num_examples": 3783,
+  "frames_T": 16,
+  "batch": 8
+}

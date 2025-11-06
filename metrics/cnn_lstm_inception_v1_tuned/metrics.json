@@ -1,0 +1,9 @@
+{
+  "checkpoint": "/home/stud/u286092/bhome/group8/checkpoints/cnn_lstm_inception_v1_tuned/best_valacc_0.707_epoch016.weights.h5",
+  "test_top1": 0.7071107625961304,
+  "test_top5": 0.8813111186027527,
+  "num_classes": 101,
+  "num_examples": 3783,
+  "frames_T": 16,
+  "batch": 8
+}

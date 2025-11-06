@@ -1,0 +1,7 @@
+{
+  "checkpoint": "/home/stud/u286092/bhome/group8/checkpoints/single_frame_inception_v1_headonly/final.weights.h5",
+  "test_top1": 0.628601610660553,
+  "test_top5": 0.8540840744972229,
+  "num_classes": 101,
+  "num_examples": 3783
+}
